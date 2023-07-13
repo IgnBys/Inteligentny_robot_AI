@@ -1,0 +1,196 @@
+pozE:
+  mid:
+    OdlKli:
+      mid:
+        IlPwG:
+          mid:
+            Max:
+              mid: g
+              high: c
+              low: g
+          low: c
+          high:
+            ilz:
+              mid: g
+              low: g
+              high:
+                Max:
+                  low: c
+                  mid:
+                    Odllad:
+                      mid: c
+                      high: g
+      low:
+        ilz:
+          low:
+            Max:
+              low: b
+              mid: c
+          high: c
+          mid:
+            IlPwG:
+              mid: c
+              high:
+                Max:
+                  low: g
+                  high: c
+                  mid: c
+              low: c
+      high:
+        OdlGen:
+          mid:
+            ilz:
+              low: g
+              high: b
+              mid: g
+          high:
+            Max:
+              mid:
+                ilz:
+                  high: c
+                  low: b
+              low:
+                SumP:
+                  mid: g
+                  low: c
+              high: c
+          low:
+            ilz:
+              high:
+                Max:
+                  low: g
+                  high: c
+              low: g
+              mid:
+                SumP:
+                  low: g
+                  mid: b
+                  high:
+                    IlPwG:
+                      mid: b
+                      low: c
+  low:
+    Odllad:
+      mid:
+        Max:
+          high:
+            OdlKli:
+              mid: c
+              low:
+                ilz:
+                  high: c
+                  low: b
+                  mid: c
+              high: b
+          mid:
+            ilz:
+              mid:
+                IlPwG:
+                  high: c
+                  low: b
+              high: b
+              low: b
+          low:
+            ilz:
+              low:
+                SumP:
+                  high: g
+                  low: b
+              mid: b
+              high: b
+      low: b
+      high:
+        OdlKli:
+          mid:
+            Max:
+              mid: c
+              low: g
+              high:
+                ilz:
+                  low: c
+                  mid: b
+          high:
+            ilz:
+              high: g
+              mid: b
+              low:
+                Max:
+                  low: g
+                  high: b
+          low:
+            ilz:
+              low:
+                Max:
+                  high: c
+                  mid: b
+              mid: b
+              high: b
+  high:
+    ilz:
+      mid:
+        IlPwG:
+          low: c
+          mid:
+            SumP:
+              high: c
+              low:
+                OdlGen:
+                  mid:
+                    Max:
+                      low: c
+                      mid: g
+                  high: c
+                  low: g
+              mid: g
+          high:
+            Max:
+              mid: g
+              high:
+                SumP:
+                  mid: c
+                  high: c
+                  low:
+                    OdlKli:
+                      low: c
+                      high: g
+              low:
+                OdlKli:
+                  low: g
+                  mid: c
+                  high: g
+      low:
+        SumP:
+          mid:
+            OdlGen:
+              high: g
+              mid: c
+              low: g
+          low:
+            OdlGen:
+              mid: g
+              high:
+                Max:
+                  mid: c
+                  low: g
+              low: g
+          high:
+            Max:
+              high: c
+              low: g
+              mid: c
+      high:
+        Max:
+          high: c
+          mid: c
+          low:
+            Odllad:
+              low:
+                OdlGen:
+                  high: c
+                  mid:
+                    SumP:
+                      low: g
+                      high: c
+                  low: g
+              high: c
+              mid: c
